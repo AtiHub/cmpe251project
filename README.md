@@ -1,6 +1,6 @@
 
 # CMPE 251 Data Science and Social Media Analysis
-# Project Report
+# Term Project
 # Group Name: s🅱inalla
 			
 ## Submitted by
