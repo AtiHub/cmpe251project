@@ -1,6 +1,7 @@
 
 # CMPE 251 Data Science and Social Media Analysis
 # Term Project
+# Reddit Data Analysis
 # Group Name: s🅱inalla
 			
 ## Submitted by
